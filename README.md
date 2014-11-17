@@ -1,6 +1,7 @@
 「はじめてのReVIEW」のレポジトリにようこそ
 
 # これなに
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/TechBooster/FirstStepReVIEW?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 TechBoosterによる『C85 ReVIEW』のメイン作業レポジトリです。
 このたび書籍制作ツールRe:VIEWの普及のため、無償公開しました。
